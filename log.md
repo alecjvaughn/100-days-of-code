@@ -15,3 +15,11 @@
 **Thoughts** It is expedient that I fix the env in VS Code so I can make use of the debugger. One hour is not enough to code and do research and debug. Maybe plan a sprint?
 
 **Link to work** [sushidata](https://github.com/alecjvaughn/sushidata)
+
+### Day 3: November 3, Monday
+
+**Today's Progress**: Can debug in Py env. Scraping local file now and storing sushi rolls by ingredient in dict.
+
+**Thoughts** Not many lines of code written yet. Lots of testing.
+
+**Link to work** [sushidata](https://github.com/alecjvaughn/sushidata)
