@@ -16,10 +16,18 @@
 
 **Link to work** [sushidata](https://github.com/alecjvaughn/sushidata)
 
-### Day 3: November 3, Monday
+### Day 3: November 3, Tuesday
 
 **Today's Progress**: Can debug in Py env. Scraping local file now and storing sushi rolls by ingredient in dict.
 
 **Thoughts** Not many lines of code written yet. Lots of testing.
+
+**Link to work** [sushidata](https://github.com/alecjvaughn/sushidata)
+
+### Day 4: November 4, Wednesday
+
+**Today's Progress**: Fixes to dict and class, adds print to file.
+
+**Thoughts** Debugging is quicker today. Some research on class def and file print.
 
 **Link to work** [sushidata](https://github.com/alecjvaughn/sushidata)
