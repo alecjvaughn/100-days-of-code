@@ -31,3 +31,11 @@
 **Thoughts** Debugging is quicker today. Some research on class def and file print.
 
 **Link to work** [sushidata](https://github.com/alecjvaughn/sushidata)
+
+### Day 5: November 5, Thursday
+
+**Today's Progress**: Fixed class print func and file out.
+
+**Thoughts** Will work on formatting variables with regex and file out next.
+
+**Link to work** [sushidata](https://github.com/alecjvaughn/sushidata)
