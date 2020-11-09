@@ -39,3 +39,11 @@
 **Thoughts** Will work on formatting variables with regex and file out next.
 
 **Link to work** [sushidata](https://github.com/alecjvaughn/sushidata)
+
+### Day 6: November 8, Sunday
+
+**Today's Progress**: Started working on a dev branch and added some regex and string manipulations to the class that didn't work.
+
+**Thoughts** I am glad I used the opportunity to push to a different branch rather than break main. Will require a makeup day next Saturday to make up for last Friday Nov 6.
+
+**Link to work** [sushidata](https://github.com/alecjvaughn/sushidata)
